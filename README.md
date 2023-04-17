@@ -1,6 +1,5 @@
 # Jenkins-Installation-UbuntU - Bash script for installation of Jenkins on Ubuntu
 # Prequisites
-- Ubuntu, 20.04
 - Port 8080 should be allowed in SG
 
 # OPTION 1
