@@ -1,5 +1,5 @@
-apt update -y
-apt install git -y
+sudo apt update -y
+sudo apt install git -y
 git --version
 git clone https://github.com/RayanAhmed2000/Jenkins-Installation-Ubuntu.git
 cd Jenkins-Installation-Ubuntu/
