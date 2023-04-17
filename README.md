@@ -1,4 +1,7 @@
 # Jenkins-Installation-UbuntU - Bash script for installation of Jenkins on Ubuntu
+# Prequisites
+- Ubuntu, 20.04
+- Port 8080 should be allowed in SG
 
 # OPTION 1
 - Pass user data in the ubuntu instance [click here](https://github.com/RayanAhmed2000/Jenkins-Installation-Ubuntu/blob/main/ec2-user-data.txt)
