@@ -18,3 +18,4 @@ sh sample.sh
 
 # Note 
 - Wait for the instance to initaialize i.e. status check 2/2
+- 
